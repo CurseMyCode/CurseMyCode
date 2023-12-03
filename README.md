@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">A Software developer from Italy 🍕</h3>
+<h1 align="left">Hi 👋, I'm Federico</h1>
+<h3 align="left">A Software developer from Italy 🍕</h3>
 <img align="right" alt="Me at 3am coding" width="400" height="300" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cursemycode&label=Profile%20views&color=0e75b6&style=flat" alt="cursemycode" /> </p>
 
